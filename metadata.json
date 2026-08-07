@@ -1,0 +1,6 @@
+{
+  "name": "Shiny Applications Dashboard",
+  "description": "Comparative dashboard interface for testing, monitoring, and analyzing Original vs. Pro Shiny Web Applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
